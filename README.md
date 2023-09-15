@@ -1,1 +1,1 @@
-https://huggingface.co/spaces/gfazekas/Chart
+https://huggingface.co/spaces/gfazekas/BarChart
